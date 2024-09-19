@@ -1,3 +1,5 @@
+//  here we discuss several way to define and use function
+
 //traditional way using function keyword
 function sum(a, b){
     return a+b
@@ -37,5 +39,5 @@ console.log(mulTwo(8,9));
     console.log("it is IIFE");
 })()
 
-//  here discuss several way to define and use function
+
 
