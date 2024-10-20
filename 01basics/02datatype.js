@@ -27,6 +27,7 @@ const user ={
 // console.log(user.Name = 'Sanchit');
 // console.log(user);
 // console.log(user.id);
+***/
 
 const array = [1,2,4,5,6,7,8]
 // console.log(typeof array);
