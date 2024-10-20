@@ -15,8 +15,8 @@ let greeting = "Hello, " + "World!";
 let name = 'Sanchit';
 let message = `Hello, ${name}!`;  // Output: Hello, John!
 
-console.log(singleQuoteString);
-console.log(doubleQuoteString);
-console.log(templateLiteralString);
+// console.log(singleQuoteString);
+// console.log(doubleQuoteString);
+// console.log(templateLiteralString);
 console.log(greeting);
 console.log(message);
